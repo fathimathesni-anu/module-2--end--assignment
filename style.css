@@ -1,0 +1,17 @@
+#footer{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover span {
+  color: white;
+}
+
+i {
+  font-size: 24px;
+  color: black;
+}
+
+a:hover i {
+  color: white;
+}
